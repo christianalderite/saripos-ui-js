@@ -1,0 +1,43 @@
+{
+    "shop_brand": "Sari PoS",
+    "shop_phone": "(02) 7777-777",
+    "shop_address": "Manila, Philippines",
+    "tax": 12,
+    "active_currency": "₱",
+    "timezone": {
+        "logical": "Asia/Manila",
+        "display": "PHT"
+    },
+    "currencies": {
+        "Philippine Peso": "₱"
+    },
+    "categories": {
+        "snacks": "Snacks",
+        "sweets": "Sweets",
+        "drinks": "Drinks",
+        "powdered_drinks": "Powdered Drinks",
+        "packed_goods": "Packed Goods",
+        "canned_goods": "Canned Goods",
+        "frozen_goods": "Frozen Goods",
+        "dry_goods": "Dry / Baking Goods",
+        "seasoning": "Seasoning",
+        "sauces": "Sauces",
+        "spreads": "Spreads",
+        "dairy": "Dairy",
+        "bread": "Bread",
+        "meat": "Meat",
+        "vegetables": "Vegetables",
+        "fruits": "Fruits",
+        "stationary": "Stationary",
+        "alcohol": "Alcohol",
+        "cigars": "Cigarettes",
+        "cleaners": "Cleaners",
+        "personal_care": "Personal Care",
+        "medicine": "Medicine",
+        "misc": "Miscellaneous"
+    },
+    "statuses": {
+        "inactive": "Inactive",
+        "active": "Active"
+    }
+}
